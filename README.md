@@ -1,2 +1,2 @@
 # YoutubeAPI
-Click <b>[here](https://felekswebs.github.io/JS-Filters/)</b> to view "YoutubeAPI" project.
+Click <b>[here](https://felekswebs.github.io/YouTube_API/)</b> to view "YoutubeAPI" project.

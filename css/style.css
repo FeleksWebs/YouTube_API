@@ -1,0 +1,48 @@
+
+header { margin-top: 30px; }
+header a { color: black; text-decoration: none; }
+header a:hover { text-decoration: none; }
+form { margin-top: 20px; }
+form, #results { padding: 0 20px; }
+.item { margin-bottom: 25px; }
+.w100 { width: 100%; }
+
+.btn-primary { background: red; border-color: #957575; }
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus { background: #782b2b;  border-color: #952b2b; }
+
+
+.VidCtrl{
+    display: block;
+    text-align:center;
+}
+.resultVid{
+    border: 1px solid #38ACEC;
+    border-radius: 25px;
+    width: 350px;
+    margin-top: 20px;
+    text-align: center;   
+}
+.VideIframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin:20px;
+}
+.PlayBtn,.PauseBtn,.StopBtn,.RemoveBtn{
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid #38ACEC;
+    background-color: white;
+    height: 40px;
+    width: 60px;
+    transition: 0.5s;
+}
+
+.PlayBtn:hover,.PauseBtn:hover,.StopBtn:hover,.RemoveBtn:hover{
+    background-color: #38ACEC;
+    color: white;
+    transition: 0.5s;
+}
+h3{
+    text-align: center;
+}
